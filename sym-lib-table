@@ -1,4 +1,12 @@
 (sym_lib_table
   (version 7)
   (lib (name "2025-airbrakes")(type "KiCad")(uri "${KIPRJMOD}/2025-airbrakes.kicad_sym")(options "")(descr ""))
+  (lib (name "kx134")(type "KiCad")(uri "/Users/fish/devel/temp/kx134.kicad_sym")(options "")(descr ""))
+  (lib (name "led")(type "KiCad")(uri "/Users/fish/devel/temp/led.kicad_sym")(options "")(descr ""))
+  (lib (name "microsd")(type "KiCad")(uri "/Users/fish/devel/temp/microsd.kicad_sym")(options "")(descr ""))
+  (lib (name "mp2307")(type "KiCad")(uri "/Users/fish/devel/temp/mp2307.kicad_sym")(options "")(descr ""))
+  (lib (name "MPM3610")(type "KiCad")(uri "/Users/fish/devel/temp/MPM3610.kicad_sym")(options "")(descr ""))
+  (lib (name "ms5611")(type "KiCad")(uri "/Users/fish/devel/temp/ms5611.kicad_sym")(options "")(descr ""))
+  (lib (name "stm32")(type "KiCad")(uri "/Users/fish/devel/temp/stm32.kicad_sym")(options "")(descr ""))
+  (lib (name "W25Q128")(type "KiCad")(uri "/Users/fish/devel/temp/W25Q128.kicad_sym")(options "")(descr ""))
 )
